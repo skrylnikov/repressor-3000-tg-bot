@@ -13,7 +13,10 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "grammy": "^1.11.2"
+    "grammy": "^1.11.2",
+    "level": "^8.0.0",
+    "remeda": "^1.1.0",
+    "snap-db": "^1.1.6"
   },
   "devDependencies": {
     "@types/node": "^16.11.49",
